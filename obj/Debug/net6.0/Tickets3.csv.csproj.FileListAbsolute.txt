@@ -1,0 +1,14 @@
+C:\Users\Quinn\Downloads\Tickets3.csv\bin\Debug\net6.0\Tickets3.csv.exe
+C:\Users\Quinn\Downloads\Tickets3.csv\bin\Debug\net6.0\Tickets3.csv.deps.json
+C:\Users\Quinn\Downloads\Tickets3.csv\bin\Debug\net6.0\Tickets3.csv.runtimeconfig.json
+C:\Users\Quinn\Downloads\Tickets3.csv\bin\Debug\net6.0\Tickets3.csv.dll
+C:\Users\Quinn\Downloads\Tickets3.csv\bin\Debug\net6.0\Tickets3.csv.pdb
+C:\Users\Quinn\Downloads\Tickets3.csv\obj\Debug\net6.0\Tickets3.csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quinn\Downloads\Tickets3.csv\obj\Debug\net6.0\Tickets3.csv.AssemblyInfoInputs.cache
+C:\Users\Quinn\Downloads\Tickets3.csv\obj\Debug\net6.0\Tickets3.csv.AssemblyInfo.cs
+C:\Users\Quinn\Downloads\Tickets3.csv\obj\Debug\net6.0\Tickets3.csv.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\Downloads\Tickets3.csv\obj\Debug\net6.0\Tickets3.csv.dll
+C:\Users\Quinn\Downloads\Tickets3.csv\obj\Debug\net6.0\refint\Tickets3.csv.dll
+C:\Users\Quinn\Downloads\Tickets3.csv\obj\Debug\net6.0\Tickets3.csv.pdb
+C:\Users\Quinn\Downloads\Tickets3.csv\obj\Debug\net6.0\Tickets3.csv.genruntimeconfig.cache
+C:\Users\Quinn\Downloads\Tickets3.csv\obj\Debug\net6.0\ref\Tickets3.csv.dll
